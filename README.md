@@ -1,7 +1,7 @@
 [![GitHub release](https://img.shields.io/github/release/realdigger/SMF-Pushbullet-Notifications.svg)](https://github.com/realdigger/SMF-Pushbullet-Notifications/releases)
-[![SMF](https://img.shields.io/badge/SMF-2.1-blue.svg?style==flat)](https://simplemachines.org)
+[![SMF](https://img.shields.io/badge/SMF-2.0-blue.svg?style==flat)](https://simplemachines.org)
 [![Hooks](https://img.shields.io/badge/hooks%20only-✓-blue.svg?style==flat)]()
-[![license](https://img.shields.io/github/license/realdigger/SMF-Pushbullet-Notifications.svg)]()
+[![license](https://img.shields.io/github/license/realdigger/SMF-Pushbullet-Notifications.svg)](https://github.com/realdigger/SMF-Pushbullet-Notifications/blob/master/LICENSE.txt)
 
 
 # SMF Pushbullet Notifications mod
