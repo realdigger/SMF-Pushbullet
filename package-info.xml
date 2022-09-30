@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE package-info SYSTEM "http://www.simplemachines.org/xml/package-info">
+<package-info xmlns="http://www.simplemachines.org/xml/package-info">
+
+    <id>digger:pushbullet</id>
+    <name>Pushbullet Notifications</name>
+    <type>modification</type>
+    <version>1.0</version>
+
+    <install for="2.0 - 2.1.99">
+        <readme>README.md</readme>
+        <require-dir name="Sources" destination="$boarddir"/>
+        <require-dir name="Themes" destination="$boarddir"/>
+        <database>hooks.php</database>
+        <redirect url="?action=admin;area=modsettings;sa=pushbullet" timeout="5000"/>
+    </install>
+
+    <uninstall for="2.0 - 2.1.99">
+        <remove-dir name="$themedir/languages/Pushbullet"/>
+        <remove-file name="$sourcedir/Mod-Pushbullet.php"/>
+        <remove-file name="$sourcedir/Admin-Pushbullet.php"/>
+        <code>hooks.php</code>
+    </uninstall>
+
+</package-info>
