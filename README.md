@@ -5,7 +5,7 @@
 
 
 # SMF Pushbullet Notifications mod
-* **Author:** digger [https://mysmf.net](http://mysmf.ru)
+* **Author:** digger [https://mysmf.net](https://mysmf.net)
 * **License:** [The MIT License (MIT)](https://opensource.org/licenses/MIT)
 * **Compatible with:** SMF 2.0
 * **Hooks only:** Yes
